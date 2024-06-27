@@ -1,5 +1,8 @@
 #David Ruiz
-#Social Media @viajatech
+
+#redes sociales @viajatech
+#Puedes usar mi script siempre y cuando me des créditos en mis redes sociales
+
 
 import tkinter as tk
 from tkinter import ttk
